@@ -39,7 +39,7 @@ Arduino IDE: 工具 → 管理库 → 搜索"MD_MAX72xx" → 安装
 安装方法：
 Arduino IDE: 工具 → 管理库 → 搜索"NTPClient" → 安装
 或从GitHub下载：https://github.com/arduino-libraries/NTPClient
-库之间的关系
+库之间的关系：
 MD_Parola (文本显示)
     ↓
 MD_MAX72xx (硬件驱动)
